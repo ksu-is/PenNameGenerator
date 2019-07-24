@@ -1,4 +1,6 @@
 # PenNameGenerator
+from random import choice
+
 def gen_unique_names(names,surnames,how_many):
     answer = []
     while how_many > 0:
