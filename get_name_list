@@ -1,0 +1,26 @@
+def get_first_name():  
+    names = []
+        first_1 = input("What was your childhood pet's name?")
+        names.append(first_1)
+        first_2 = input("What's your best friend's first name?")
+        names.append(first_2)
+        first_3 = input("What is the make of your car?")
+        names.append(first_3)
+        first_4 = input("Android or Mac?")
+        names.append(first_4)
+        first_5 = input("What's your favorite streaming service?")
+        names.append(first_5)
+        
+
+def get_second_name():
+    surnames = []
+        second_1 = input("What street did you grow up on?")
+        surnames.append(second_1)
+        second_2 = input("What's your mother's maiden name?")
+        surnames.append(second_2)
+        second_3 = input("What is the model of your car?")
+        surnames.append(second_3)
+        second_4 = input("Beach or Mountains?")
+        surnames.append(second_4)
+        second_5 = input("What's your favorite pizza topping?")
+        surnames.append(second_5)
